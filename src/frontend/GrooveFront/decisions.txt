@@ -1,0 +1,5 @@
+1. Use material ui permament app drawer.
+2. Use git branches to develop your code, as later ask for merge.
+3. I really love Tose Naina.
+4. In react-h5-player uuse listenInterval to send request to history
+5. Ideally History results should be paginated, but here we won't right now cause network requests are cheap.

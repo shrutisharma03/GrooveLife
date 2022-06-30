@@ -1,0 +1,11 @@
+.myDIV {
+    width: 100%;
+    height: 100%;
+    background: rgb(13, 15, 27);
+    animation: mymove 15s infinite;
+  }
+  
+  @keyframes mymove {
+    from {background-color: rgba(131, 114, 114, 0.966);}
+    to {background-color: rgb(1, 1, 3);}
+  }

@@ -1,0 +1,9 @@
+.queue {
+    display: flex;
+    justify-content: center;
+}
+
+.list {
+    list-style-type: none;
+    text-align: center;
+}

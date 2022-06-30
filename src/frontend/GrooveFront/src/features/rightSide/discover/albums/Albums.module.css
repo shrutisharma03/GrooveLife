@@ -1,0 +1,28 @@
+.drawer {
+    position: static;
+    top: 0;
+    height: 100%;
+    width: 250px;
+    background: #02010f;
+  }
+  
+  .space { border: 1px solid rgb(19, 18, 18);
+    /* padding: 50px 50px 50px 50px; */
+    background-color:rgb(96, 83, 99); 
+    text-align: center;
+    display: block;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+  
+  .button {
+    height: 5%;
+    width: 100%;
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    overflow-x: hidden;
+    background-color: rgba(0, 0, 0, 0.76);
+    border-radius: 10px;
+    border: 4px double #cccccc;
+}
